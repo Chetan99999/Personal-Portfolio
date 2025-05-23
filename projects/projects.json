@@ -1,0 +1,62 @@
+[
+  {
+    "name": "QuickAttend",
+    "desc": " A face recognition-based smart attendance system for seamless and automated tracking in classrooms and organizations ",
+    "image": "quickatted2",
+    "category": "Artificial Intelligence",
+    "links": {
+      "view": "https://github.com/Wani-Chetan-999/QuickAttend.git",
+      "code": "https://github.com/Wani-Chetan-999/QuickAttend.git"
+    }
+  },
+  {
+    "name": "BrightSkillz",
+    "desc": "Empowering learners with modern, in-demand skills through an intuitive and engaging e-learning platform. ",
+    "image": "e-course",
+    "category": "E-Com",
+    "links": {
+      "view": "https://brightskillz.42web.io/",
+      "code": "https://github.com/Wani-Chetan-999/BrightSkillz.git"
+    }
+  },
+  {
+    "name": "Health Care Chatbot",
+    "desc": "An intelligent virtual assistant powered by AI and machine learning to provide symptom analysis, health advice, and seamless interaction for healthcare-related inquiries.",
+    "image": "chatbot",
+    "category": "HealthTech ",
+    "links": {
+      "view": "https://github.com/Wani-Chetan-999/Healthcare_Chatbot.git",
+      "code": "https://github.com/Wani-Chetan-999/Healthcare_Chatbot.git"
+    }
+  },
+  {
+    "name": "Personal Portfolio",
+    "desc": "A responsive personal portfolio website that highlights my skills, projects, and career milestones, offering a seamless experience for visitors to explore my professional profile. ",
+    "image": "portfolio",
+    "category": "Web Development",
+    "links": {
+      "view": "https://chetandev999.netlify.app/",
+      "code": "https://github.com/Wani-Chetan-999/Portfolio.git"
+    }
+  },
+  {
+    "name": "Deepfake Detection (In Progress)",
+    "desc": "AI-driven technology designed to identify manipulated media, ensuring authenticity and combating misinformation effectively",
+    "image": "deepfake",
+    "category": "Ethical AI",
+    "links": {
+      "view": "https://github.com/Wani-Chetan-999/DeepFake-Detection.git",
+      "code": "https://github.com/Wani-Chetan-999/DeepFake-Detection.git"
+    }
+  },
+  {
+      "name": "Eco-Guardian",
+      "desc": "A smart waste management system enabling users to report waste, while admins track, manage, and optimize cleanup efficiently. ",
+      "image": "wms",
+      "category": "Full Stack",
+      "links": {
+        "view": "https://github.com/Wani-Chetan-999/WMS",
+        "code": "https://github.com/Wani-Chetan-999/WMS"
+      }
+  }
+]
